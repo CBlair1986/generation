@@ -1,0 +1,11 @@
+[0m2021.07.17 19:41:04 INFO  Started: Metals version 0.10.5 in workspace '/Users/cblair1986/Documents/GitHub/generation' for client Visual Studio Code 1.57.0.[0m
+[0m2021.07.17 19:41:04 INFO  time: initialize in 0.66s[0m
+[0m2021.07.17 19:41:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.17 19:41:05 WARN  no build tool detected in workspace '/Users/cblair1986/Documents/GitHub/generation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.17 19:41:06 WARN  no build target for: /Users/cblair1986/Documents/GitHub/generation/Grammar.scala[0m
+[0m2021.07.17 19:41:09 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Jul 17, 2021 7:41:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 17, 2021 7:41:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.07.17 19:41:12 INFO  time: code lens generation in 5.82s[0m
